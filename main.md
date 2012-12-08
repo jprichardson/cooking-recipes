@@ -2,6 +2,8 @@
 Sesame Chicken
 --------------
 
+tags: chicken
+
 ### ingredients
 - 6 boneless chicken breast halves
 - 1/2 cup of honey
@@ -23,3 +25,5 @@ serving size: (215 g)
 servings per recipe: 6
 
 calories: 258.7, fat: 4.2, carbs: 27.7, protein: 28.0
+
+
