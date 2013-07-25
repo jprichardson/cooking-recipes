@@ -2,7 +2,7 @@
 Cinnamon Bun for One
 --------------------
 
-tags: cinnamon, icing
+tags: Cinnamon, Icing, Desserts
 
 ### ingredients
 

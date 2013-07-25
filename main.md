@@ -1,8 +1,28 @@
 
+Crusted Salmon
+--------------
+
+tags: Salmon, Seafood
+
+### ingredients
+- salmon filet
+- 2-3 tbsp shredded cocounut
+- 2-3 tbsp almond flour
+- Mrs. Dash Garlic & Herb seasoning
+
+### directions
+1. put all ingredients in ziploc baag and shake to coat
+2. place salmon on greased glass baking dish
+3. spread leftovers mixture on top
+4. bake for 15 minutes at 375 deg
+5. broil for 3-5 minutes
+
+
+
 Sesame Chicken
 --------------
 
-tags: chicken
+tags: Chicken
 
 ### ingredients
 - 6 boneless chicken breast halves
@@ -27,3 +47,25 @@ servings per recipe: 6
 calories: 258.7, fat: 4.2, carbs: 27.7, protein: 28.0
 
 
+
+Taco Casserole
+--------------
+
+tags: Unhealthy, Quick
+
+### ingredients
+- 1-2 lb ground beef
+- Doritos
+- bag of shredded cheddar cheese
+- lettuce
+- tomatoes
+- taco seasoning
+
+### directions
+1. brown meat, mix with taco seasoning
+2. lay out doritos on 9x13 pan
+3. spread meat
+4.  sprinkle 3/4 cheese
+5.  put lettuce and tomatotes on
+6.  sprinkle rest of chese
+7. cook for 15-18 minutes at 350 deg
