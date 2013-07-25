@@ -1,1 +1,1 @@
-Deliciou recipes that I've tried.
+Delicious recipes that I've tried.
