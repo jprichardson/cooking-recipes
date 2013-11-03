@@ -19,6 +19,52 @@ tags: Salmon, Seafood
 
 
 
+Deep Dish Cheeseburger Pie
+--------------------------
+
+tags: Beef
+
+(from http://dashingdish.com/recipe/deep-dish-cheeseburger-pie/)
+
+### ingredients (crust)
+- 3/4 cup	Oat flour (or 1 cup old fashioned oats, ground in a blender)
+- Pinch	Salt
+- 1 tsp	Baking powder
+- 1	Egg
+- 2 tbs	Plain low fat Greek yogurt or unsweetened applesauce
+- 1/4 cup	Unsweetened almond milk or low fat milk
+
+### ingredients (meat layer)
+- 1 lb	Lean ground turkey (or lean ground beef)
+- 1	Small onion, chopped (about 1 cup)
+- 1 tsp	Garlic, minced (or 1/2 teaspoon of garlic powder)
+- 1/2 tsp	Salt
+- 1 tsp	Minced onion or 1/2 tsp onion powder
+- 1/4 cup	Low sugar ketchup or tomato paste
+- 2 tbs	Mustard
+- 2 tbs	Low fat mayo or low fat plain Greek yogurt
+- 1/2 cup	Shredded cheddar cheese
+- 1	Roma tomato, sliced
+
+### directions
+- preheat oven to 350 degrees
+- spray a 9 inch pie pan with non-stick cooking spray
+- blend crust ingredients 
+- bake crust for 8-10 minutes until firm to the touch
+- brown hamburger, garlic, and onion
+- turn off heat, stir in salt, ketchup, mustard and mayo
+- put meat over crust 
+- sprinkle the shredded cheese on top and tomato slices
+- bake in oven for 25-30 minutes or until cheese is melted, cut into 8 slices
+
+### nutrition
+serving size: (1 slice)
+servings per recipe: 8
+
+calories: 145, fat: 5, carbs: 8, protein: 17
+
+
+
 Sesame Chicken
 --------------
 
